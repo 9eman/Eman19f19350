@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864955891188",
+    "project_id": "emanalrisi-5c322",
+    "storage_bucket": "emanalrisi-5c322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864955891188:android:a172d83a3453688afbcda1",
+        "android_client_info": {
+          "package_name": "com.example.eman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCvbLpEqE1Jo1LzEr65I2OlGTZvZvoZRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
